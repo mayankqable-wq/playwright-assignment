@@ -1,0 +1,92 @@
+<testsuites id="" name="" tests="10" failures="0" skipped="0" errors="0" time="56.772801">
+<testsuite name="Assignment\AddProduct.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="42.633" errors="0">
+<testcase name="Add Product in Cart" classname="Assignment\AddProduct.spec.js" time="42.633">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-AddProduct-Add-Product-in-Cart-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\AllProducts.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="18.076" errors="0">
+<testcase name="All Products" classname="Assignment\AllProducts.spec.js" time="18.076">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-AllProducts-All-Products-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\AlreadyRegister.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="13.559" errors="0">
+<testcase name="Already Register" classname="Assignment\AlreadyRegister.spec.js" time="13.559">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-AlreadyRegister-Already-Register-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\Correctlogin.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="16.385" errors="0">
+<testcase name="Correct Login" classname="Assignment\Correctlogin.spec.js" time="16.385">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-Correctlogin-Correct-Login-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\Incorrectlogin.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="54.679" errors="0">
+<testcase name="Incorrect login" classname="Assignment\Incorrectlogin.spec.js" time="54.679">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-Incorrectlogin-Incorrect-login-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\Logout.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="16.762" errors="0">
+<testcase name="Login User and Logout Successfully" classname="Assignment\Logout.spec.js" time="16.762">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-Logout-Login-User-and-Logout-Successfully-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\Register.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="23.749" errors="0">
+<testcase name="Register User Test" classname="Assignment\Register.spec.js" time="23.749">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-Register-Register-User-Test-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\RemoveProduct.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="17.932" errors="0">
+<testcase name="Remove Product From Cart" classname="Assignment\RemoveProduct.spec.js" time="17.932">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-RemoveProduct-Remove-Product-From-Cart-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\SearchProduct.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="16.8" errors="0">
+<testcase name="Search Product" classname="Assignment\SearchProduct.spec.js" time="16.8">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-SearchProduct-Search-Product-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+<testsuite name="Assignment\ViewBrand.spec.js" timestamp="2026-05-31T10:51:51.930Z" hostname="chromium" tests="1" failures="0" skipped="0" time="21.59" errors="0">
+<testcase name="View Brand" classname="Assignment\ViewBrand.spec.js" time="21.59">
+<system-out>
+<![CDATA[
+[[ATTACHMENT|test-results\Assignment-ViewBrand-View-Brand-chromium\trace.zip]]
+]]>
+</system-out>
+</testcase>
+</testsuite>
+</testsuites>
